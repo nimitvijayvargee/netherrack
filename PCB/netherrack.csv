@@ -1,39 +1,19 @@
 Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Part Number
 "C1,C9,C10,C12,C13,C18,C19",7,100n,,,,Capacitor_SMD:C_0402_1005Metric,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf,GPC0402104-16
 "C2,C4,C5,C6,C7,C8,C14,C15,C16,C17",10,10u,,,,Capacitor_SMD:C_0402_1005Metric,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71A106KA73-01.pdf,GPC0402106-6.3
-,,,,,,,,
 C11,1,4.7nF,,,,Capacitor_SMD:C_0402_1005Metric,~,GPC0402472
 D1,1,LED Red,,,,LED_SMD:LED_0603_1608Metric,http://optoelectronics.liteon.com/upload/download/DS22-2000-210/LTST-S270KRKT.pdf,ROBU827883
 "D2,D3",2,LED Green,,,,LED_SMD:LED_0603_1608Metric,http://optoelectronics.liteon.com/upload/download/DS22-2000-226/LTST-S270KGKT.pdf,ROBU827883
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-J4,1,Bus_M.2_Socket_M,,,,CM5IO:M.2 M Key socket,,"LCSCC2761526
-"
-J7,1,Micro_SD_Card_Det,,,,CM5IO:SDCARD_MOLEX_503398-1892,https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1,"LCSCC393941
-"
+J4,1,Bus_M.2_Socket_M,,,,CM5IO:M.2 M Key socket,,C590854
 J11,1,USB_C_Receptacle_USB2.0,,,,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,LCSCC2765186
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-Module1,1,ComputeModule5-CM5,,,,CM5IO:Raspberry-Pi-5-Compute-Module,,C48688837
+"J12, J13",2,ComputeModule5-CM5,,,,10164227-1001A1RLF,,LCSCC7435219
 "R1,R10,R17",3,1k,,,,Resistor_SMD:R_0402_1005Metric,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf,GPR04021K
 "R2,R3",2,470R,,,,Resistor_SMD:R_0402_1005Metric,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf,GPR0402470R
-,,,,,,,,
-,,,,,,,,
 "R6,R7,R9,R16",4,2.2K 1%,,,,Resistor_SMD:R_0402_1005Metric,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf,GPR04022K2
 "R11,R13,R15",3,10K 1%,,,,Resistor_SMD:R_0402_1005Metric,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf,GPR040210K
-,,,,,,,,
 R14,1,100K 1%,,,,Resistor_SMD:R_0402_1005Metric,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf,GPR0402100K
 SW1,1,Right angle Tact button,,,,Button_Switch_SMD:SW_SPST_B3U-1000P,https://www.mouser.co.uk/datasheet/2/240/Littelfuse-3050591.pdf,LCSCC231329
-,,,,,,,,
 "U1,U2",2,TPD4EUSB30,,,,Package_SON:USON-10_2.5x1.0mm_P0.5mm,http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf,LCSCC90627
-,,,,,,,,
 U6,1,AP22653W6,,,,Package_TO_SOT_SMD:SOT-23-6,https://www.diodes.com/assets/Datasheets/AP255x.pdf,LCSCC2158037
 U7,1,ASEK-32.768KHZ-L-R-T,,,,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,https://abracon.com/Oscillators/ASEK.pdf,LCSCC2650753
 U8,1,AP3441SHE-7B,,,,Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm,https://www.diodes.com/assets/Datasheets/AP3441-L.pdf,LCSCC2070918
