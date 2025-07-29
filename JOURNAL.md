@@ -23,3 +23,10 @@ I spent the next couple of days working on the PCB Layout. I wanted to keep the 
 # Day 10 - BOM Assembly
 Time Spent: 2 hours \
 I spent this day selecting components across PCBPower (my fabricator of choice) and LCSC components. Most components like the capacitors were sourced locally to reduce shipping and freight charges. When I was exporting the PCB CPL files, I noticed that the CM5 was 1 thing, not 2 seperate board-to-board connectors. I had to look for the 10164227-1001A1RLF connector. I managed to export the gerbers with the CM5 and the CPL files with the connector. Tommorow, I plan on deisigning the case and front panel for the board.
+
+# Day 11 and 12 - Case design
+Time Spent: 7 Hours \
+Over the course of two days, I spent a lot of time working on the case for this project. My idea was to have a Standing rack with a side acrylic panel to see through, and all the ports on the side. HDMI would be on top because of space, and also because I intend it to be only used during debugging. I also plan on using M2.5x25mm screws but those are a bit hard to find. I completed a render and design for the case, and am ready to export everything. I also received a component sourcing invoice from PCBPower for the prices on all the components I need, which isn't too expensive (30$). I just need to find a similar Magjack as the one in my board, but if I can't find it then I will have to replace the specific port with a different one.
+<img width="720" height="437" alt="image" src="https://github.com/user-attachments/assets/f4855b87-28c5-48d0-a9fa-3dbcebd1291a" />
+<img width="720" height="389" alt="image" src="https://github.com/user-attachments/assets/6b9ad101-41f8-4f08-b906-6092a44008f1" />
+<img width="720" height="461" alt="image" src="https://github.com/user-attachments/assets/008ca6db-5a43-4972-8ae2-731dcaf3c1c6" />
