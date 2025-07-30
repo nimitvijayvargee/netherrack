@@ -10,6 +10,7 @@ The board is designed to be mounted vertically, with the ports on the side and a
 ![traces for ethernet and usb](/assets/pcb_eth_usb_trace.png)
 ![HDMI, PCIe](/assets/pcb_hdmi_pcie_trace.png)
 <img width="720" height="461" alt="image" src="https://github.com/user-attachments/assets/008ca6db-5a43-4972-8ae2-731dcaf3c1c6" />
+<img width="1040" height="745" alt="image" src="https://github.com/user-attachments/assets/f8d80bb9-869b-449d-8870-5605df3d272f" />
 
 
 # BOM
