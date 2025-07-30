@@ -60,6 +60,10 @@
       ],
       "drc_exclusions": [
         [
+          "items_not_allowed|126500000|86000000|967cc41d-01de-4544-ae64-a244fc1cdf84|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
           "silk_over_copper|156745002|132241226|5e6403d7-2464-487f-bb0a-b9bf51dd4d2e|00000000-0000-0000-0000-000000000000",
           ""
         ]
@@ -657,10 +661,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/",
+      "plot": "../production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "netherrack.stl",
+      "step": "netherrackbare.step",
       "svg": "",
       "vrml": ""
     },
