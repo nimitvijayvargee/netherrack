@@ -4,7 +4,7 @@ author: "nimit vijayvargee"
 description: "mini home server for backups or photos!"
 created_at: "2025-07-18"
 ---
-
+# Total Time Spent: 29 hours
 # Days 1 and 2 - Documentations and Planning - July 18 and 19
 Time Spent: 3 hours \
 I read through the documentation of the Raspberry Pi CM5, the CM5IO board and the capabilities it had. I did a bit of research on where I could source my parts from and what features I should implement. I didn't plan on using any wireless capabilities, relying on ethernet instead. I also researched and tried to understand the functioning of differential routing and why it is necessary for USB, M.2_PCIe and Ethernet. I managed to create a rough design of how I wanted it to look like. A square board, mounted vertically (like in a PC) with easily accessible USB, Ethernet and M.2 ports. I wanted the front to be acrylic panel so that the design was easily visiblem, and the rest to be PLA. The HDMI was routed near the top so that it could be used for debugging rather than for display (I plan on SSHing into it).
